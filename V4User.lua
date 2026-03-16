@@ -1,7 +1,7 @@
 return {
     "xXxXxGOD_REBORNxXxXx",
     "vivitlogg",
-    "null",
+    "dalgacor3",
     "lisaayu24",
     "null",
     "null",
