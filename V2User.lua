@@ -1,4 +1,4 @@
--- authorized_userslua_injectorprivaten {
+{
     "ULTIMATED_12",
     "MyGOD_1299",
     "Abuya_mozah",
