@@ -34,7 +34,7 @@
     "mpujeruu",
     "Rulerema",
     "sapinaiksepeda",
-    "null",
+    "dalgacor3",
     "null",
     "null",
     "null",
