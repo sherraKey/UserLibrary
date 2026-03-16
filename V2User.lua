@@ -35,16 +35,6 @@
     "Rulerema",
     "sapinaiksepeda",
     "dalgacor3",
-    "null",
-    "null",
-    "null",
-    "null",
-    "null",
-    "null",
-    "null",
-    "null",
-    "null",
-    "null",
-    "null",
     "null"
+
 }
