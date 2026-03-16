@@ -1,4 +1,4 @@
-{
+return {
     "ULTIMATED_12",
     "MyGOD_1299",
     "Abuya_mozah",
