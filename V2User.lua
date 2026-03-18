@@ -35,6 +35,7 @@ return {
     "Rulerema",
     "sapinaiksepeda",
     "dalgacor3",
-    "null"
+    "Bloodykitee",
+    "nukk"
 
 }
